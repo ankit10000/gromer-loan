@@ -23,7 +23,6 @@ const navigation = [
   { name: 'OVERDRAFT', href: '#', current: false },
   { name: 'BUISNESS LOAN ', href: '#', current: false },
   { name: 'PROFESSIONAL LOAN', href: '#', current: false },
-  { name: 'Contact Number 9166622679', href: '#', current: false },
 ]
 const userNavigation = [
   { name: 'Your Profile', href: '#' },
